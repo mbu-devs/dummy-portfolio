@@ -152,7 +152,7 @@ nav {
     margin: 0px 10px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-between 0.5;
 
 }
 
